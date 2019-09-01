@@ -1,16 +1,13 @@
 ---
 templateKey: index-page
-title: 'Supporting students, teachers, and parents of Madison Heights '
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: 'Madison Heights PTO'
+image: /img/books-jumbotron.jpg
+heading: It takes a village
+subheading: Supporting students, teachers, and parents of Madison Heights
 mainpitch:
-  title: Why Kaldi
+  title: Our Mission
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Simple. To set up every student at Heights to be successful.  
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
