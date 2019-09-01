@@ -1,5 +1,9 @@
 var proxy = require('http-proxy-middleware')
 
+let env = process.env.NODE_ENV || 'development';
+require('dotenv').config({ path: `./.env.${env}` });
+console.log(process.env.CLOUDINARY_API)
+
 module.exports = {
   siteMetadata: {
     title: 'Heights PTO',
