@@ -1,7 +1,7 @@
 import React from 'react'
 
 import Layout from '../../components/Layout'
-import BlogRoll from '../../components/BlogRoll'
+import EventRoll from '../../components/EventRoll'
 
 export default class EventsIndexPage extends React.Component {
   render() {
@@ -28,7 +28,7 @@ export default class EventsIndexPage extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <BlogRoll />
+              <EventRoll />
             </div>
           </div>
         </section>

@@ -40,9 +40,9 @@ collections:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "event-post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "text"}
-      - {label: "Event Date", name: "date", widget: "date",  format: "MMM Do YY"}
-      - {label: "Start Time", name: "startTime", widget: "datetime",  format: "MMM Do YY hh:mm"}
-      - {label: "End Time", name: "endTime", widget: "datetime",  format: "MMM Do YY hh:mm"}
+      - {label: "Event Date", name: "date", widget: "datetime"}
+      - {label: "Start Time", name: "start", widget: "datetime"}
+      - {label: "End Time", name: "end", widget: "datetime"}
       - {label: "Featured Image", name: "featuredimage", widget: image}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
