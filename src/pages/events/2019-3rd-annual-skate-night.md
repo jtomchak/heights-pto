@@ -8,8 +8,7 @@ description: >-
 date: 2019-09-01T03:37:20.838Z
 startTime: 2019-09-01T03:37:20.838Z
 endTime: 2019-09-01T03:37:20.838Z
-featuredimage: >-
-  https://res.cloudinary.com/elementcasting/image/upload/c_scale,f_auto,q_auto,w_160/v1567359034/Heights%20PTO/170620_Bando_3rd_PARTY_0717_final_copy_grande_o4v3d3.jpg
+featuredimage: /img/eric-rothermel-foko4dpxamq-unsplash.jpg
 tags:
   - fundraiser
 ---
